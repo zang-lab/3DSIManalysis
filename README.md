@@ -1,6 +1,4 @@
-# 3DSIManalysis
-3D‑SIM H3K27ac Domain Feature Analysis
-# High-Resolution 3D-SIM H3K27ac Domain Analysis
+# High-Resolution 3D-SIM image data analysis
 
 This repository contains the code supporting the manuscript **“Super-resolution microscopy reveals distinct epigenetic states regulated by estrogen receptor activity.”** It provides scripts for processing raw 3D-SIM. czi files, including aligning multi-channel signals from the 3D-SIM data, extracting quantitative H3K27ac domain features, and generating statistics and publication-ready figures.
 
